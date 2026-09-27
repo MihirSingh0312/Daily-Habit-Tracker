@@ -65,6 +65,9 @@ Main Menu
 <img width="1917" height="1021" alt="Screenshot 2026-09-27 232728" src="https://github.com/user-attachments/assets/f5e168af-d854-41f1-b9aa-bdc7928fce0f" />
 0.Exit 
 <img width="1917" height="1020" alt="Screenshot 2026-09-27 232826" src="https://github.com/user-attachments/assets/66e7910c-627c-4c1d-a847-4e2ac1d8928f" />
+Github
+<img width="1917" height="968" alt="Screenshot 2026-09-28 001955" src="https://github.com/user-attachments/assets/f2edbe68-50ea-4679-a711-a05f298614dd" />
+
 
 
 
